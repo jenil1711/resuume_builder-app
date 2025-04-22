@@ -2,7 +2,13 @@
 
 A modern, user-friendly Flutter application for creating professional resumes with customizable templates and sections.
 
-![Resume Builder Screenshot](screenshots/resume-builder-screenshot.png)
+![Screenshot 2025-04-22 095912](https://github.com/user-attachments/assets/207baf66-2f19-4a64-9160-6c6767bcd2e3)
+![Screenshot 2025-04-22 100349](https://github.com/user-attachments/assets/ee1e8fbb-2c3d-45bb-84b3-41971ea04d74)
+![Screenshot 2025-04-22 100418](https://github.com/user-attachments/assets/a10001b0-9d3a-4744-93b2-6f1d7c828518)
+![Screenshot 2025-04-22 100441](https://github.com/user-attachments/assets/cc789bf4-077f-4572-9568-718260eafdbd)
+![Screenshot 2025-04-22 100500](https://github.com/user-attachments/assets/24d2a7a5-1b8b-4ea3-ad39-f3f46eaaf5fb)
+![Screenshot 2025-04-22 100513](https://github.com/user-attachments/assets/aeb04f8c-3094-43f6-beb5-08eb729f37d5)
+
 
 ## Features
 
@@ -146,6 +152,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter)
+Your Name - jenilkalsariya1711@gmail.com
 
-Project Link: [https://github.com/yourusername/resume-builder](https://github.com/yourusername/resume-builder)# resuume_builder-app
